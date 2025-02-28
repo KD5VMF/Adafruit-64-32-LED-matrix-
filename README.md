@@ -1,1 +1,1 @@
-# Adafruit-64-32-LED-matrix-
+# Adafruit 64-32-LED-matrix- example programs
